@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="3312" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/MAQUINA_DE_ESTADOS.vhd</arg>&quot; Line <arg fmt="%d" index="2">94</arg>. Undefined symbol &apos;<arg fmt="%s" index="3">CONTADOR</arg>&apos;.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1209" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/MAQUINA_DE_ESTADOS.vhd</arg>&quot; Line <arg fmt="%d" index="2">94</arg>. <arg fmt="%s" index="3">CONTADOR</arg>: Undefined symbol (last report in this block)
+</msg>
+
+<msg type="error" file="HDLParsers" num="837" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/MAQUINA_DE_ESTADOS.vhd</arg>&quot; Line <arg fmt="%d" index="2">111</arg>. Width mismatch. Expected width <arg fmt="%u" index="3">4</arg>, Actual width is <arg fmt="%u" index="4">3</arg> for dimension <arg fmt="%d" index="5">1</arg> of <arg fmt="%s" index="6">SELETOR_ME</arg>.
+</msg>
+
+</messages>
+

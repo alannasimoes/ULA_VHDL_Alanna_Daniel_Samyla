@@ -1,0 +1,26 @@
+AR operacao_somar1bit behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR1BIT.vhd sub00/vhpl01 1719108249
+EN operacao_and NULL "C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/AND.vhd" sub00/vhpl06 1719104291
+AR operacao_deslocar4bits_esquerda behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_DESLOCAR4BITS_ESQUERDA.vhd sub00/vhpl17 1719108263
+AR clock_ajustado behavioral "C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/CLOCK_AJUSTADO.vhd" sub00/vhpl23 1719106125
+EN operacao_xor NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_XOR.vhd sub00/vhpl10 1719108256
+AR operacao_xor behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_XOR.vhd sub00/vhpl11 1719108257
+AR operacao_and behavioral "C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/AND.vhd" sub00/vhpl07 1719104292
+AR mux_8entradas behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/MUX_8ENTRADAS.vhd sub00/vhpl19 1719108265
+EN operacao_somar4bits NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR4BITS.vhd sub00/vhpl04 1719108252
+AR maquina_de_estados behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/MAQUINA_DE_ESTADOS.vhd sub00/vhpl25 1719108269
+EN clock_ajustado NULL "C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/CLOCK_AJUSTADO.vhd" sub00/vhpl22 1719106124
+EN operacao_comparador_4bits NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_COMPARADOR4BITS.vhd sub00/vhpl14 1719108260
+EN mux_8entradas NULL C:/Users/DANIEL/Desktop/ULA_FINAL/MUX_8ENTRADAS.vhd sub00/vhpl18 1719108264
+EN ula NULL C:/Users/DANIEL/Desktop/ULA_FINAL/ULA.vhd sub00/vhpl20 1719108266
+EN operacao_subtrair4bits NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SUBTRAIR4BITS.vhd sub00/vhpl12 1719108258
+EN operacao_or NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OR.vhd sub00/vhpl08 1719108254
+AR operacao_somar4bits behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR4BITS.vhd sub00/vhpl05 1719108253
+AR operacao_not behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_NOT.vhd sub00/vhpl03 1719108251
+EN operacao_deslocar4bits_esquerda NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_DESLOCAR4BITS_ESQUERDA.vhd sub00/vhpl16 1719108262
+AR ula behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/ULA.vhd sub00/vhpl21 1719108267
+EN operacao_somar1bit NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR1BIT.vhd sub00/vhpl00 1719108248
+EN maquina_de_estados NULL C:/Users/DANIEL/Desktop/ULA_FINAL/MAQUINA_DE_ESTADOS.vhd sub00/vhpl24 1719108268
+AR operacao_comparador_4bits behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_COMPARADOR4BITS.vhd sub00/vhpl15 1719108261
+EN operacao_not NULL C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_NOT.vhd sub00/vhpl02 1719108250
+AR operacao_subtrair4bits behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SUBTRAIR4BITS.vhd sub00/vhpl13 1719108259
+AR operacao_or behavioral C:/Users/DANIEL/Desktop/ULA_FINAL/OR.vhd sub00/vhpl09 1719108255
