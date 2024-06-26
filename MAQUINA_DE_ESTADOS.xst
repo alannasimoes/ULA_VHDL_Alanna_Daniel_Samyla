@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/DANIEL/Desktop/ULA_FINAL/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/DANIEL/Desktop/ULA_FINAL/xst"
+elaborate
+-ifn MAQUINA_DE_ESTADOS.prj
+-ifmt mixed

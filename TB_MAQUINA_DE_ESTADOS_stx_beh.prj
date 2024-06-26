@@ -1,0 +1,4 @@
+vhdl isim_temp "MUX_8ENTRADAS.vhd"
+vhdl isim_temp "OPERACAO_SOMAR4BITS.vhd"
+vhdl isim_temp "OPERACAO_NOT.vhd"
+vhdl isim_temp "TB_MAQUINA_DE_ESTADOS.vhd"

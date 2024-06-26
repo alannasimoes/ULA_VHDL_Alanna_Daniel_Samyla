@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="ULA_FINAL.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MAQUINA_DE_ESTADOS.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MAQUINA_DE_ESTADOS.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MAQUINA_DE_ESTADOS.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MAQUINA_DE_ESTADOS.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MAQUINA_DE_ESTADOS.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MAQUINA_DE_ESTADOS.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="MAQUINA_DE_ESTADOS_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MAQUINA_DE_ESTADOS_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MAQUINA_DE_ESTADOS_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="OPERACAO_AND_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_MAQUINA_DE_ESTADOS_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TB_MAQUINA_DE_ESTADOS_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="TB_MAQUINA_DE_ESTADOS_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_MAQUINA_DE_ESTADOS_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_ME_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TB_ME_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="TB_ME_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_ME_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="ULA_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ULA_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1719105408" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1719105408">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719109329" xil_pn:in_ck="6793842172203505036" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1719109329">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="AND.vhd"/>
+      <outfile xil_pn:name="CLOCK_AJUSTADO.vhd"/>
+      <outfile xil_pn:name="MAQUINA_DE_ESTADOS.vhd"/>
+      <outfile xil_pn:name="MUX_8ENTRADAS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_COMPARADOR4BITS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_DESLOCAR4BITS_ESQUERDA.vhd"/>
+      <outfile xil_pn:name="OPERACAO_NOT.vhd"/>
+      <outfile xil_pn:name="OPERACAO_SOMAR1BIT.vhd"/>
+      <outfile xil_pn:name="OPERACAO_SOMAR4BITS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_SUBTRAIR4BITS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_XOR.vhd"/>
+      <outfile xil_pn:name="OR.vhd"/>
+      <outfile xil_pn:name="TB_CLOCK.vhd"/>
+      <outfile xil_pn:name="TB_COMPARADOR_4BITS.vhd"/>
+      <outfile xil_pn:name="TB_DESLOCAR4BITS_ESQUERDA.vhd"/>
+      <outfile xil_pn:name="TB_ME.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_AND.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_NOT.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_SOMAR4BITS.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_SUBTRAIR4BITS.vhd"/>
+      <outfile xil_pn:name="TB_ULA.vhd"/>
+      <outfile xil_pn:name="ULA.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1719108819" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-453976503433308963" xil_pn:start_ts="1719108819">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719108819" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5531797760510404677" xil_pn:start_ts="1719108819">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719105408" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-832457464694388565" xil_pn:start_ts="1719105408">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719109329" xil_pn:in_ck="6793842172203505036" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1719109329">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="AND.vhd"/>
+      <outfile xil_pn:name="CLOCK_AJUSTADO.vhd"/>
+      <outfile xil_pn:name="MAQUINA_DE_ESTADOS.vhd"/>
+      <outfile xil_pn:name="MUX_8ENTRADAS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_COMPARADOR4BITS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_DESLOCAR4BITS_ESQUERDA.vhd"/>
+      <outfile xil_pn:name="OPERACAO_NOT.vhd"/>
+      <outfile xil_pn:name="OPERACAO_SOMAR1BIT.vhd"/>
+      <outfile xil_pn:name="OPERACAO_SOMAR4BITS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_SUBTRAIR4BITS.vhd"/>
+      <outfile xil_pn:name="OPERACAO_XOR.vhd"/>
+      <outfile xil_pn:name="OR.vhd"/>
+      <outfile xil_pn:name="TB_CLOCK.vhd"/>
+      <outfile xil_pn:name="TB_COMPARADOR_4BITS.vhd"/>
+      <outfile xil_pn:name="TB_DESLOCAR4BITS_ESQUERDA.vhd"/>
+      <outfile xil_pn:name="TB_ME.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_AND.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_NOT.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_SOMAR4BITS.vhd"/>
+      <outfile xil_pn:name="TB_OPERACAO_SUBTRAIR4BITS.vhd"/>
+      <outfile xil_pn:name="TB_ULA.vhd"/>
+      <outfile xil_pn:name="ULA.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1719109333" xil_pn:in_ck="6793842172203505036" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="7482438090204466904" xil_pn:start_ts="1719109329">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="TB_ME_beh.prj"/>
+      <outfile xil_pn:name="TB_ME_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1719109333" xil_pn:in_ck="1114444839731064288" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="3445823577957803941" xil_pn:start_ts="1719109333">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="TB_ME_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1719103882" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="5877770305939032561" xil_pn:start_ts="1719103882">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719103882" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-832457464694388565" xil_pn:start_ts="1719103882">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719103882" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1719103882">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719103882" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-481225140683611447" xil_pn:start_ts="1719103882">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719103882" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="9102341965431189672" xil_pn:start_ts="1719103882">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719103882" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-7047697073300042187" xil_pn:start_ts="1719103882">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1719103885" xil_pn:in_ck="-5511781165981810812" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="693185258386025554" xil_pn:start_ts="1719103882">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>

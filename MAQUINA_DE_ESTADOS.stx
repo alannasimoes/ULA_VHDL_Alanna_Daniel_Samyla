@@ -1,0 +1,55 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/DANIEL/Desktop/ULA_FINAL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/DANIEL/Desktop/ULA_FINAL/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR1BIT.vhd" in Library work.
+Architecture behavioral of Entity operacao_somar1bit is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_NOT.vhd" in Library work.
+Architecture behavioral of Entity operacao_not is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR4BITS.vhd" in Library work.
+Architecture behavioral of Entity operacao_somar4bits is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OR.vhd" in Library work.
+Architecture behavioral of Entity operacao_or is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_XOR.vhd" in Library work.
+Architecture behavioral of Entity operacao_xor is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SUBTRAIR4BITS.vhd" in Library work.
+Architecture behavioral of Entity operacao_subtrair4bits is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_COMPARADOR4BITS.vhd" in Library work.
+Architecture behavioral of Entity operacao_comparador_4bits is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_DESLOCAR4BITS_ESQUERDA.vhd" in Library work.
+Architecture behavioral of Entity operacao_deslocar4bits_esquerda is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/MUX_8ENTRADAS.vhd" in Library work.
+Architecture behavioral of Entity mux_8entradas is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/ULA.vhd" in Library work.
+Architecture behavioral of Entity ula is up to date.
+Compiling vhdl file "C:/Users/DANIEL/Desktop/ULA_FINAL/MAQUINA_DE_ESTADOS.vhd" in Library work.
+Entity <maquina_de_estados> compiled.
+Entity <maquina_de_estados> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.25 secs
+ 
+--> 
+
+Total memory usage is 4477756 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

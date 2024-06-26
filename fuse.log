@@ -1,0 +1,44 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/DANIEL/Desktop/ULA_FINAL/TB_ME_isim_beh.exe -prj C:/Users/DANIEL/Desktop/ULA_FINAL/TB_ME_beh.prj work.TB_ME 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/MUX_8ENTRADAS.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR4BITS.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_NOT.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SOMAR1BIT.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OR.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_XOR.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_SUBTRAIR4BITS.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_DESLOCAR4BITS_ESQUERDA.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/OPERACAO_COMPARADOR4BITS.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/AND.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/ULA.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/MAQUINA_DE_ESTADOS.vhd" into library work
+Parsing VHDL file "C:/Users/DANIEL/Desktop/ULA_FINAL/TB_ME.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity OPERACAO_AND [operacao_and_default]
+Compiling architecture behavioral of entity OPERACAO_OR [operacao_or_default]
+Compiling architecture behavioral of entity OPERACAO_NOT [operacao_not_default]
+Compiling architecture behavioral of entity OPERACAO_XOR [operacao_xor_default]
+Compiling architecture behavioral of entity OPERACAO_SOMAR1BIT [operacao_somar1bit_default]
+Compiling architecture behavioral of entity OPERACAO_SOMAR4BITS [operacao_somar4bits_default]
+Compiling architecture behavioral of entity OPERACAO_SUBTRAIR4BITS [operacao_subtrair4bits_default]
+Compiling architecture behavioral of entity OPERACAO_COMPARADOR_4BITS [operacao_comparador_4bits_defaul...]
+Compiling architecture behavioral of entity OPERACAO_DESLOCAR4BITS_ESQUERDA [operacao_deslocar4bits_esquerda_...]
+Compiling architecture behavioral of entity MUX_8ENTRADAS [mux_8entradas_default]
+Compiling architecture behavioral of entity ULA [ula_default]
+Compiling architecture behavioral of entity MAQUINA_DE_ESTADOS [maquina_de_estados_default]
+Compiling architecture behavior of entity tb_me
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 30 VHDL Units
+Built simulation executable C:/Users/DANIEL/Desktop/ULA_FINAL/TB_ME_isim_beh.exe
+Fuse Memory Usage: 38052 KB
+Fuse CPU Usage: 608 ms

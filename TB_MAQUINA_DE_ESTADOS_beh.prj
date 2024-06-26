@@ -1,0 +1,4 @@
+vhdl work "MUX_8ENTRADAS.vhd"
+vhdl work "OPERACAO_SOMAR4BITS.vhd"
+vhdl work "OPERACAO_NOT.vhd"
+vhdl work "TB_MAQUINA_DE_ESTADOS.vhd"

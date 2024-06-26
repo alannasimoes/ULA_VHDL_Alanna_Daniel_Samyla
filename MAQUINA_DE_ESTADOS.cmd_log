@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/MAQUINA_DE_ESTADOS.xst" -ofn "C:/Users/DANIEL/Desktop/Sistemas Digitais/ULA_FINAL/MAQUINA_DE_ESTADOS.syr" 
